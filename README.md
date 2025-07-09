@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## https://gwas.id/00-000-000-000
+## https://gwas.id/00-000-000-001
+
+## https://orcid.org/0009-0008-2574-3747
