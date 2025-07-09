@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## https://gwas.id/00-000-000-000
-## https://gwas.id/00-000-000-001
+## gwas.id/c/[00-000-000-000](https://gwas.id/c/00-000-000-000)
 
-## https://orcid.org/0009-0008-2574-3747
+## gwas.id/s/[00-000-000-001](https://gwas.id/s/00-000-000-001)
+
+## ORCID iD: [0009-0008-2574-3747](https://orcid.org/0009-0008-2574-3747)
